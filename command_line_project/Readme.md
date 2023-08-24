@@ -21,7 +21,7 @@ The objective is to pummel your opponent to zero HP before they pummel you!
 | Headbutt | A skull shattering headbutt | Punch |
 | Power | Unlimited Power! | Not even a jedi |
 
-# Your feasome opponents
+# Your fearsome opponents
 ## Slug
 Slug was born in a small, unassuming slug farm. He was a kind and gentle slug, but he was also very weak. The other slugs would often pick on him and make fun of him. One day, Slug decided that he had had enough. He ran away from the farm and vowed to become stronger.
 
