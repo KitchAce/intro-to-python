@@ -2,15 +2,15 @@
 ## Probably the best fighting game of our generation
 
 # About the game
-Py-Fighter is a zero-sum game similar to Rock Paper Scissor.
+Py-Fighter is a zero-sum game similar to Rock, Paper, Scissors.
 
-You have to out-wit (or out-luck) the CPU opponent by selecting the move that trump's theirs.
+You must outwit (or out-luck) the CPU opponent by selecting the move that trumps theirs.
 
-There is a special move called 'Power' which can be used when your power gauge is full up, only the foolish would attempt to call upon Power before such time.
+There is a special move called "Power," which can be used when your power gauge is full. Only a fool would attempt to use Power before then.
 
-You and the CPU start with 10 HP
+You and the CPU start with 10 HP each.
 
-The objective is to pummel your opponent to zero HP before they pummel you!
+The objective is to pummel your opponent to 0 HP before they pummel you!
 
 # The sweet moves
 
